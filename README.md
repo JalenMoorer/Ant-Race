@@ -1,12 +1,12 @@
 # Ant-Race
 Calculates the likelihood of each ant winning a race
 
-#Running the project
+# Running the project
   1. Download Zip and extract or pull project
   2. Open terminal and change directory to project and install using `npm install`
   3. To start application type command `npm start`. App should open in `localhost:3000` or some other specified port
 
-#Instructions
+# Instructions
   The application should generate all the data from the GraphQL endpoint which contains the ant information.  This will render
   and display the contents of each ant on screen.
 
